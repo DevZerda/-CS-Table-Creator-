@@ -1,7 +1,7 @@
 # -CS-Table-Creator-
 Table creator returning as string for Consoles/Terminals
-        
-            HOW TO USE
+
+                               HOW TO USE 
 
     int[] fag = { 50, 50 };
     Creator.set_columns(fag);
